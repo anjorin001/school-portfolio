@@ -21,7 +21,7 @@ export function Hero() {
         <div className="relative flex-shrink-0">
           <div className="w-36 h-36 sm:w-44 sm:h-44 md:w-56 md:h-56 lg:w-64 lg:h-64 rounded-2xl overflow-hidden ring-1 ring-white/10 shadow-2xl shadow-indigo-900/20">
             <img
-              src="/public/gallery/pfp2.jpg"
+              src="/gallery/pfp2.jpg"
               alt="Your Name"
               className="w-full h-full object-cover bg-[#0d0d1a]"
             />

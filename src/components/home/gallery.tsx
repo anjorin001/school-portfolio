@@ -2,10 +2,10 @@
 import { useFadeIn } from "../slide-in-effect";
 
 const photos = [
-  { src: "/public/gallery/matric.jpg", caption: "Matriculation 2022 🎓", wide: true },
-  { src: "/public/gallery/au-tech.jpg", caption: "AU Tech Club ⚡", wide: false },
-  { src:"/public/gallery/siwes-best.jpg", caption: "SIWES — Lagos ✈️", wide: false },
-  { src:"/public/gallery/grinding.jpg" , caption: "FYP Grinding 🚀", wide: true },
+  { src: "/gallery/matric.jpg", caption: "Matriculation 2022 🎓", wide: true },
+  { src: "/gallery/au-tech.jpg", caption: "AU Tech Club ⚡", wide: false },
+  { src:"/gallery/siwes-best.jpg", caption: "SIWES — Lagos ✈️", wide: false },
+  { src:"/gallery/grinding.jpg" , caption: "FYP Grinding 🚀", wide: true },
 ];
 
 export function Gallery() {
